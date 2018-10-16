@@ -1,0 +1,21 @@
+{
+  "name": "jasonreid/footballformations",
+  "description": "composer for frontend",
+  "type": "project",
+  "authors": [{
+    "name": "jason reid",
+    "email": "jasonbrandon9406@gmail.com"
+  }],
+  "minimum-stability": "dev",
+  "repositories": [{
+    "type": "git",
+    "url": "https://github.com/wellingguzman/zend-db"
+  }],
+  "require": {
+    "directus/sdk": "^1.1.1",
+    "phpfastcache/phpfastcache": "dev-master",
+    "piwik/device-detector": "^3.10",
+    "stripe/stripe-php": "^2.0@dev",
+    "twig/twig": "^2.0"
+  }
+}
