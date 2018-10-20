@@ -1,0 +1,217 @@
+[{
+    "day": 4,
+    "month_num": 10,
+    "month": "October",
+    "year": "2018",
+    "time": "23:40:00",
+    "date_uk": "04/10/2018 23:40:00",
+    "ip": {
+      "geoplugin_request": "2.30.11.19",
+      "geoplugin_status": 200,
+      "geoplugin_delay": "2ms",
+      "geoplugin_credit": "Some of the returned data includes GeoLite data created by MaxMind, available from <a href=\\'http://www.maxmind.com\\'>http://www.maxmind.com</a>.",
+      "geoplugin_city": "London",
+      "geoplugin_region": "England",
+      "geoplugin_regionCode": "ENG",
+      "geoplugin_regionName": "England",
+      "geoplugin_areaCode": "",
+      "geoplugin_dmaCode": "",
+      "geoplugin_countryCode": "GB",
+      "geoplugin_countryName": "United Kingdom",
+      "geoplugin_inEU": 1,
+      "geoplugin_euVATrate": 20,
+      "geoplugin_continentCode": "EU",
+      "geoplugin_continentName": "Europe",
+      "geoplugin_latitude": "51.5142",
+      "geoplugin_longitude": "-0.0931",
+      "geoplugin_locationAccuracyRadius": "1",
+      "geoplugin_timezone": "Europe/London",
+      "geoplugin_currencyCode": "GBP",
+      "geoplugin_currencySymbol": "&#163;",
+      "geoplugin_currencySymbol_UTF8": "£",
+      "geoplugin_currencyConverter": "0.7731",
+      "API": true
+    },
+    "device": {
+      "clientInfo": {
+        "type": "browser",
+        "name": "Chrome",
+        "short_name": "CH",
+        "version": "68.0.3440.106",
+        "engine": "Blink",
+        "engine_version": ""
+      },
+      "osInfo": {
+        "name": "Mac",
+        "short_name": "MAC",
+        "version": "10.13.6",
+        "platform": ""
+      },
+      "device": "desktop",
+      "brand": "Apple",
+      "model": ""
+    }
+  },
+  {
+    "day": 5,
+    "month_num": 10,
+    "month": "October",
+    "year": "2018",
+    "time": "00:16:43",
+    "date_uk": "05/10/2018 00:16:43",
+    "ip": {
+      "geoplugin_request": "2.30.11.19",
+      "geoplugin_status": 200,
+      "geoplugin_delay": "1ms",
+      "geoplugin_credit": "Some of the returned data includes GeoLite data created by MaxMind, available from <a href=\\'http://www.maxmind.com\\'>http://www.maxmind.com</a>.",
+      "geoplugin_city": "London",
+      "geoplugin_region": "England",
+      "geoplugin_regionCode": "ENG",
+      "geoplugin_regionName": "England",
+      "geoplugin_areaCode": "",
+      "geoplugin_dmaCode": "",
+      "geoplugin_countryCode": "GB",
+      "geoplugin_countryName": "United Kingdom",
+      "geoplugin_inEU": 1,
+      "geoplugin_euVATrate": 20,
+      "geoplugin_continentCode": "EU",
+      "geoplugin_continentName": "Europe",
+      "geoplugin_latitude": "51.5142",
+      "geoplugin_longitude": "-0.0931",
+      "geoplugin_locationAccuracyRadius": "1",
+      "geoplugin_timezone": "Europe/London",
+      "geoplugin_currencyCode": "GBP",
+      "geoplugin_currencySymbol": "&#163;",
+      "geoplugin_currencySymbol_UTF8": "£",
+      "geoplugin_currencyConverter": "0.7731",
+      "API": true
+    },
+    "device": {
+      "clientInfo": {
+        "type": "browser",
+        "name": "Safari",
+        "short_name": "SF",
+        "version": "12.0",
+        "engine": "WebKit",
+        "engine_version": "605.1.15"
+      },
+      "osInfo": {
+        "name": "Mac",
+        "short_name": "MAC",
+        "version": "10.13.6",
+        "platform": ""
+      },
+      "device": "desktop",
+      "brand": "Apple",
+      "model": ""
+    }
+  },
+  {
+    "day": 5,
+    "month_num": 10,
+    "month": "October",
+    "year": "2018",
+    "time": "00:17:15",
+    "date_uk": "05/10/2018 00:17:15",
+    "ip": {
+      "geoplugin_request": "2.30.11.19",
+      "geoplugin_status": 200,
+      "geoplugin_delay": "2ms",
+      "geoplugin_credit": "Some of the returned data includes GeoLite data created by MaxMind, available from <a href=\\'http://www.maxmind.com\\'>http://www.maxmind.com</a>.",
+      "geoplugin_city": "London",
+      "geoplugin_region": "England",
+      "geoplugin_regionCode": "ENG",
+      "geoplugin_regionName": "England",
+      "geoplugin_areaCode": "",
+      "geoplugin_dmaCode": "",
+      "geoplugin_countryCode": "GB",
+      "geoplugin_countryName": "United Kingdom",
+      "geoplugin_inEU": 1,
+      "geoplugin_euVATrate": 20,
+      "geoplugin_continentCode": "EU",
+      "geoplugin_continentName": "Europe",
+      "geoplugin_latitude": "51.5142",
+      "geoplugin_longitude": "-0.0931",
+      "geoplugin_locationAccuracyRadius": "1",
+      "geoplugin_timezone": "Europe/London",
+      "geoplugin_currencyCode": "GBP",
+      "geoplugin_currencySymbol": "&#163;",
+      "geoplugin_currencySymbol_UTF8": "£",
+      "geoplugin_currencyConverter": "0.7731",
+      "API": true
+    },
+    "device": {
+      "clientInfo": {
+        "type": "browser",
+        "name": "Safari",
+        "short_name": "SF",
+        "version": "12.0",
+        "engine": "WebKit",
+        "engine_version": "605.1.15"
+      },
+      "osInfo": {
+        "name": "Mac",
+        "short_name": "MAC",
+        "version": "10.13.6",
+        "platform": ""
+      },
+      "device": "desktop",
+      "brand": "Apple",
+      "model": ""
+    }
+  },
+  {
+    "day": 5,
+    "month_num": 10,
+    "month": "October",
+    "year": "2018",
+    "time": "00:18:00",
+    "date_uk": "05/10/2018 00:18:00",
+    "ip": {
+      "geoplugin_request": "2.30.11.19",
+      "geoplugin_status": 200,
+      "geoplugin_delay": "2ms",
+      "geoplugin_credit": "Some of the returned data includes GeoLite data created by MaxMind, available from <a href=\\'http://www.maxmind.com\\'>http://www.maxmind.com</a>.",
+      "geoplugin_city": "London",
+      "geoplugin_region": "England",
+      "geoplugin_regionCode": "ENG",
+      "geoplugin_regionName": "England",
+      "geoplugin_areaCode": "",
+      "geoplugin_dmaCode": "",
+      "geoplugin_countryCode": "GB",
+      "geoplugin_countryName": "United Kingdom",
+      "geoplugin_inEU": 1,
+      "geoplugin_euVATrate": 20,
+      "geoplugin_continentCode": "EU",
+      "geoplugin_continentName": "Europe",
+      "geoplugin_latitude": "51.5142",
+      "geoplugin_longitude": "-0.0931",
+      "geoplugin_locationAccuracyRadius": "1",
+      "geoplugin_timezone": "Europe/London",
+      "geoplugin_currencyCode": "GBP",
+      "geoplugin_currencySymbol": "&#163;",
+      "geoplugin_currencySymbol_UTF8": "£",
+      "geoplugin_currencyConverter": "0.7731",
+      "API": true
+    },
+    "device": {
+      "clientInfo": {
+        "type": "browser",
+        "name": "Chrome",
+        "short_name": "CH",
+        "version": "68.0.3440.106",
+        "engine": "Blink",
+        "engine_version": ""
+      },
+      "osInfo": {
+        "name": "Mac",
+        "short_name": "MAC",
+        "version": "10.13.6",
+        "platform": ""
+      },
+      "device": "desktop",
+      "brand": "Apple",
+      "model": ""
+    }
+  }
+]
