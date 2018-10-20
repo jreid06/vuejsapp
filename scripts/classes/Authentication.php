@@ -19,6 +19,7 @@ class Auth extends Projectfunctions
             // compare the authtoken to any user that is logged in
             $loggedInUser = $directus->getItems('registered_users', [
                 "in[session_token]" => $_SESSION['authToken'],
+                "depth"=> 3,
                 "columns"=>$columns
             ]);
 
@@ -52,7 +53,7 @@ class Auth extends Projectfunctions
         $password = $credentials['password'];
 
         //
-        $options = ["status"=>1, "in[account_holder_email]"=>$email, "columns"=>$columns];
+        $options = ["status"=>1, "in[account_holder_email]"=>$email, "columns"=>$columns, "depth"=> 3];
         $user_exists = $DB->entryExists('registered_users', $options);
 
         // validate password against sent password
