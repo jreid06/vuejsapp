@@ -383,12 +383,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "c7faf23816251ca3f35463c55f3178a9b60128fc"
+                "reference": "2798c457a4fc5a9bda4587ea0da9b177e22aff5a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/c7faf23816251ca3f35463c55f3178a9b60128fc",
-                "reference": "c7faf23816251ca3f35463c55f3178a9b60128fc",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/2798c457a4fc5a9bda4587ea0da9b177e22aff5a",
+                "reference": "2798c457a4fc5a9bda4587ea0da9b177e22aff5a",
                 "shasum": ""
             },
             "require": {
@@ -440,7 +440,7 @@
                 "rest",
                 "web service"
             ],
-            "time": "2018-09-12T15:59:05+00:00"
+            "time": "2018-10-08T11:42:37+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -565,12 +565,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/flysystem.git",
-                "reference": "a11e4a75f256bdacf99d20780ce42d3b8272975c"
+                "reference": "a6ded5b2f6055e2db97b4b859fdfca2b952b78aa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/a11e4a75f256bdacf99d20780ce42d3b8272975c",
-                "reference": "a11e4a75f256bdacf99d20780ce42d3b8272975c",
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/a6ded5b2f6055e2db97b4b859fdfca2b952b78aa",
+                "reference": "a6ded5b2f6055e2db97b4b859fdfca2b952b78aa",
                 "shasum": ""
             },
             "require": {
@@ -641,7 +641,7 @@
                 "sftp",
                 "storage"
             ],
-            "time": "2018-09-14T15:30:29+00:00"
+            "time": "2018-10-15T13:53:10+00:00"
         },
         {
             "name": "mustangostang/spyc",
@@ -795,16 +795,16 @@
         },
         {
             "name": "piwik/device-detector",
-            "version": "3.11.1",
+            "version": "3.11.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/matomo-org/device-detector.git",
-                "reference": "0ec14d28cbf71c48b21697e65b892cfd8c3ca519"
+                "reference": "c8e1760a45c4aed201af3b7deee35131bc47fe3e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/matomo-org/device-detector/zipball/0ec14d28cbf71c48b21697e65b892cfd8c3ca519",
-                "reference": "0ec14d28cbf71c48b21697e65b892cfd8c3ca519",
+                "url": "https://api.github.com/repos/matomo-org/device-detector/zipball/c8e1760a45c4aed201af3b7deee35131bc47fe3e",
+                "reference": "c8e1760a45c4aed201af3b7deee35131bc47fe3e",
                 "shasum": ""
             },
             "require": {
@@ -845,7 +845,7 @@
                 "parser",
                 "useragent"
             ],
-            "time": "2018-08-10T18:28:32+00:00"
+            "time": "2018-10-08T20:45:21+00:00"
         },
         {
             "name": "psr/cache",
